@@ -1,59 +1,48 @@
-# 🚀 About Me
-Hi! I'm Heshane Garg, a Pre-Final Year B.Tech student at IIIT Una, specializing in Information Technology.  
-I’m passionate about **Android development, data analysis, and business analytics**.  
-I love building **scalable, high-performance mobile applications** and leveraging **data-driven insights** to enhance decision-making and user experiences.
+# 🚀 About Me  
+Hi! I'm **Heshane Garg**, a **Second-Year B.Tech student at IIIT Una**, specializing in **Computer Science and Engineering (CSE)**.  
+I am passionate about **Data Analysis and Business Analytics**, and I love transforming raw data into **meaningful insights** to drive smarter decisions.  
 
 ---
 
-## 💻 Currently Working On:
-- **Healthify** – A one-stop solution for health and wellness.  
-- **WellnessBuddy** – An app focused on mental wellness, offering tools for mindfulness, therapy, and self-care.
+## 💻 Projects  
+### 📊 WhatsApp Chat Analyzer  
+A tool that helps users analyze their **WhatsApp chat history** by extracting insights like:  
+- Most active participants  
+- Frequent words and phrases  
+- Message frequency trends  
+- Sentiment analysis of conversations  
 
 ---
 
-## 👨‍💻 Experience & Interests:
-- **Android Developer Intern @ Handlers**  
-  - Worked on **MVVM architecture, Jetpack Components, and app performance optimization**.
-  - Skilled in integrating **third-party SDKs** for analytics, payments, authentication, and cloud services.
-  - Experienced with **Retrofit, Firebase, Google SDKs, OneSignal**, and more.
-- **Data Analysis & Business Insights**  
-  - Passionate about cleaning, visualizing, and extracting meaningful insights from data to drive **better business decisions**.
+## 📌 Looking for  
+I am currently looking for opportunities in:  
+- **Data Analysis & Business Analytics Internships**  
+- **Open-source projects and collaborations**  
+- **Real-world data-driven projects**  
 
 ---
 
-## 📌 Looking for:
-- Opportunities to work on **challenging projects** with **clean architecture and scalable solutions**.
-- Collaboration with developers passionate about **Android, UI/UX, third-party integrations, and data-driven decision-making**.
-
----
-
-## 📬 Let's Connect!
-📧 **Email:** aryaaryan.work@gmail.com  
+## 📬 Let's Connect!  
+📧 **Email:** 23129@iiitu.ac.in  
 
 🌐 **Socials:**  
-[Instagram](#) | [LinkedIn](#) | [GitHub](#)
+[GitHub](#) | [LinkedIn](#) | [Instagram](#)  
 
 ---
 
-## 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-007396?style=flat&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room-4CAF50?style=flat&logo=android&logoColor=white)
+## 💻 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat&logo=python&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats:
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanarya&show_icons=true&theme=radical)
+## 📊 GitHub Stats  
+![Heshane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heshanegarg&show_icons=true&theme=radical)  
 
 ---
 
-## ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
----
-
-## 🔝 Top Contributed Repo
-![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=aryanarya&repo=top-repo&theme=radical)
+## ✍️ Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)  
