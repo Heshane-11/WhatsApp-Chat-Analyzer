@@ -39,8 +39,7 @@ I am currently looking for opportunities in:
 
 ---
 
-## 📊 GitHub Stats  
-![Heshane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heshanegarg&show_icons=true&theme=radical)  
+
 
 ---
 
