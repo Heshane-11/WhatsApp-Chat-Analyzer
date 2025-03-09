@@ -26,7 +26,7 @@ I am currently looking for opportunities in:
 📧 **Email:** 23129@iiitu.ac.in  
 
 🌐 **Socials:**  
-[GitHub](#) | [LinkedIn](#) | [Instagram](#)  
+[GitHub](https://github.com/Heshane-11) | [LinkedIn](www.linkedin.com/in/heshane-garg-9b638a28b) |  
 
 ---
 
