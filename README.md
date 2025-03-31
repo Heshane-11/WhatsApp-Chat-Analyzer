@@ -61,6 +61,28 @@
 - 📈 **seaborn**
 - 📉 **matplotlib**
 
+## 📸 Screenshots
+
+### 📊 Chat Statistics Overview
+![Chat Statistics](https://github.com/Heshane-11/WhatsApp-Chat-Analyzer/blob/main/images/Screenshot%202025-03-11%20221223.png)
+
+### ⏳ Monthly Messages Over Time
+![Message Frequency](https://github.com/Heshane-11/WhatsApp-Chat-Analyzer/blob/main/images/Screenshot%202025-03-11%20221320.png)
+
+### ⏳ Chat Activity Trends
+![Message Frequency](https://github.com/Heshane-11/WhatsApp-Chat-Analyzer/blob/main/images/Screenshot%202025-03-11%20221357.png)
+
+### ⏳ Weekly Activity
+![Message Frequency](https://github.com/Heshane-11/WhatsApp-Chat-Analyzer/blob/main/images/Screenshot%202025-03-11%20221417.png)
+
+### 🔠 Wordcloud
+![Common Words](https://github.com/Heshane-11/WhatsApp-Chat-Analyzer/blob/main/images/Screenshot%202025-03-11%20221517.png)
+
+
+### 🎭 Sentiment Analysis (if applicable)
+![Sentiment Analysis](https://github.com/Heshane-11/WhatsApp-Chat-Analyzer/blob/main/images/Screenshot%202025-03-11%20232206.png)
+
+
 ## 🤝 Contribution
 
 Feel free to contribute by submitting pull requests or reporting issues.
