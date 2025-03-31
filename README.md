@@ -1,47 +1,68 @@
-# 🚀 About Me  
-Hi! I'm **Heshane Garg**, a **Second-Year B.Tech student at IIIT Una**, specializing in **Computer Science and Engineering (CSE)**.  
-I am passionate about **Data Analysis and Business Analytics**, and I love transforming raw data into **meaningful insights** to drive smarter decisions.  
+# 📊 MessageMiner
+
+**MessageMiner** is a WhatsApp Chat Analyzer built using **Python, Streamlit, pandas, and seaborn**. It helps users gain insights from their WhatsApp chat data by visualizing key statistics, message trends, and other analytics.
+
+## ✨ Features
+
+- 🧹 **Chat Preprocessing:** Cleans and structures raw WhatsApp chat exports.
+- 📊 **Message Analysis:** Provides insights into message frequency, user activity, and word usage.
+- ❌ **Stopword Filtering:** Removes unnecessary words using a predefined Hinglish stopword list.
+- 📈 **Graphical Representations:** Uses **seaborn** and **matplotlib** to generate charts and graphs.
+- 🎨 **Streamlit UI:** User-friendly interface for easy interaction.
+
+## 🛠️ Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-repo/messageiner.git
+   cd messageiner
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## 🚀 Usage
+
+1. **Run the Streamlit App:**
+   ```bash
+   streamlit run UI.py
+   ```
+
+2. **Upload WhatsApp Chat File:**
+   - 📂 Export chat from WhatsApp (without media).
+   - ⬆️ Upload it to the application.
+
+3. **View Analysis:**
+   - 🏆 **Top contributors** in the chat.
+   - ⏳ **Message frequency** over time.
+   - 🔤 **Commonly used words** (excluding stopwords).
+   - 🎭 **Sentiment analysis** (if applicable).
+
+## 📂 Project Structure
+
+```
+/messageiner
+│── 🗂️ preprocessing.py    # Data cleaning and processing
+│── 📜 set.py              # Stopword handling
+│── 🎨 UI.py               # Streamlit app
+│── 📃 stop_hinglish.txt   # Hinglish stopword list
+│── 📌 requirements.txt    # Dependencies
+```
+
+## 🛠️ Technologies Used
+
+- 🐍 **Python**
+- 🎨 **Streamlit**
+- 📊 **pandas**
+- 📈 **seaborn**
+- 📉 **matplotlib**
+
+## 🤝 Contribution
+
+Feel free to contribute by submitting pull requests or reporting issues.
 
 ---
-
-## 💻 Projects  
-### 📊 WhatsApp Chat Analyzer  
-A tool that helps users analyze their **WhatsApp chat history** by extracting insights like:  
-- Most active participants  
-- Frequent words and phrases  
-- Message frequency trends  
-- Sentiment analysis of conversations  
-
----
-
-## 📌 Looking for  
-I am currently looking for opportunities in:  
-- **Data Analysis & Business Analytics Internships**  
-- **Open-source projects and collaborations**  
-- **Real-world data-driven projects**  
-
----
-
-## 📬 Let's Connect!  
-📧 **Email:** 23129@iiitu.ac.in  
-
-🌐 **Socials:**  
-[GitHub](https://github.com/Heshane-11) | [LinkedIn](www.linkedin.com/in/heshane-garg-9b638a28b) |  
-
----
-
-## 💻 Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=flat&logo=python&logoColor=white)  
-
----
-
-
-
----
-
-## ✍️ Random Dev Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)  
